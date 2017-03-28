@@ -1,0 +1,6 @@
+{
+	"preview.stl": {
+		"format": "stl",
+		"source": "model.scad"
+	}
+}
