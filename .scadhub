@@ -1,6 +1,6 @@
 {
 	"targets": {
-		"preview.stl": {
+		"preview-branch.stl": {
 			"source": "model.scad"
 		}
 	}
